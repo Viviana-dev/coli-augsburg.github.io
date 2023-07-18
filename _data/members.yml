@@ -1,0 +1,39 @@
+-
+    name: 'Christian Chiarcos'
+    email: 'firstname dot lastname at philhist dot uni minus augsburg dot de'
+    position: 'Professor'
+    pic: "christian"
+    website: 'Personal Website'
+    websiteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/team/prof-dr-chiarcos/'
+    affiliation: 'University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+
+-
+    name: 'Alessandra Zarcone'
+    email: 'Alessandra (dot) Zarcone (at) hs-augsburg (dot) de'
+    position: 'Professor'
+    pic: "alessandra"
+    website: 'Personal Website'
+    websiteurl: 'https://azarcone.github.io/'
+    affiliation: 'Hochschule Augsburg'
+    instituteurl: 'https://www.hs-augsburg.de/'
+
+-
+    name: 'Annemarie Friedrich'
+    email: 'firstname dot lastname at informatik dot uni minus augsburg dot de'
+    position: 'Professor'
+    pic: "anne"
+    website: 'Personal Website'
+    websiteurl: 'https://annefried.github.io'
+    affiliation: 'University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+
+-
+    name: 'Timo Schrader'
+    email: 'firstname dot lastname at de dot bosch dot com'
+    position: 'Phd Student'
+    pic: "timo"
+    website: ''
+    websiteurl: ''
+    affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
+    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
