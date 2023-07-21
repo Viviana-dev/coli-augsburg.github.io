@@ -78,6 +78,11 @@ permalink: /kickoff-workshop-23
     <td class="tg-0lax">Matthias Kraus</td>
     <td class="tg-0lax">Proactive Conversational Assistants</td>
   </tr>
+    <tr>
+    <td class="tg-0lax">16:15</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Buffer/Discussion</td>
+  </tr>
   <tr>
     <td class="tg-0lax">16:30</td>
     <td class="tg-0lax"></td>
@@ -115,32 +120,37 @@ permalink: /kickoff-workshop-23
     <td class="tg-0lax">tbd</td>
   </tr>
   <tr>
-    <td class="tg-0lax">13:50</td>
+    <td class="tg-0lax">13:45</td>
     <td class="tg-0lax">Timo</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">14:10</td>
+    <td class="tg-0lax">14:00</td>
     <td class="tg-0lax">Valentin</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">14:30</td>
+    <td class="tg-0lax">14:15</td>
     <td class="tg-0lax">Wei</td>
     <td class="tg-0lax">Language models in TableQA</td>
   </tr>
   <tr>
-    <td class="tg-0lax">14:50</td>
+    <td class="tg-0lax">14:30</td>
+    <td class="tg-0lax">Zahra</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14:45</td>
+    <td class="tg-0lax">Viviana</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15:00</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Coffee Break</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">15:20</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
  <tr>
-    <td class="tg-0lax">15:40</td>
+    <td class="tg-0lax">15:45</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -150,9 +160,9 @@ permalink: /kickoff-workshop-23
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">16:20</td>
+    <td class="tg-0lax">16:15</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">Coffee Break</td>
+    <td class="tg-0lax"></td>
   </tr>
     <tr>
     <td class="tg-0lax">17:00</td>
