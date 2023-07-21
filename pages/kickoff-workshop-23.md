@@ -119,7 +119,7 @@ permalink: /kickoff-workshop-23
     <td class="tg-0lax">Timo</td>
     <td class="tg-0lax"></td>
   </tr>
-<tr>
+  <tr>
     <td class="tg-0lax">14:10</td>
     <td class="tg-0lax">Valentin</td>
     <td class="tg-0lax"></td>
@@ -159,7 +159,6 @@ permalink: /kickoff-workshop-23
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
-    </tr>
     <tr>
     <td class="tg-0lax">17:20</td>
     <td class="tg-0lax"></td>
