@@ -76,7 +76,7 @@ permalink: /kickoff-workshop-23
     <tr>
     <td class="tg-0lax">16:00</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">Commute to city center</td>
+    <td class="tg-0lax">Commute to City Center</td>
   </tr>
   <tr>
     <td class="tg-0lax">17:00</td>
