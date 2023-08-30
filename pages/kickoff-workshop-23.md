@@ -136,34 +136,34 @@ permalink: /kickoff-workshop-23
   </tr>
     <tr>
     <td class="tg-0lax">15:00</td>
-    <td class="tg-0lax">Luis Glaser</td>
-    <td class="tg-0lax">tbd</td>
+      <td class="tg-0lax">Jakob Prange</td>
+    <td class="tg-0lax">Symbolic, neural, and imagistic semantics</td>
   </tr>
   
   <tr>
-    <td class="tg-0lax">15:14</td>
+    <td class="tg-0lax">15:20</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Coffee Break</td>
   </tr>
  <tr>
-    <td class="tg-0lax">15:45</td>
+    <td class="tg-0lax">16:00</td>
     <td class="tg-0lax">Timo</td>
     <td class="tg-0lax">BoschAI at Causal News Corpus 2023</td>
 </tr>
 <tr>
-    <td class="tg-0lax">15:50</td>
+    <td class="tg-0lax">16:15</td>
     <td class="tg-0lax">Valentin</td>
     <td class="tg-0lax">tbd</td>
 </tr>
 <tr>
-    <td class="tg-0lax">15:30</td>
+    <td class="tg-0lax">16:30</td>
     <td class="tg-0lax">Wei</td>
     <td class="tg-0lax">Language models in TableQA</td>
   </tr>
     <tr>
-    <td class="tg-0lax">15:45</td>
-    <td class="tg-0lax">Jakob Prange</td>
-    <td class="tg-0lax">Symbolic, neural, and imagistic semantics</td>
+    <td class="tg-0lax">16:45</td>
+    <td class="tg-0lax">Christian Fäth</td>
+    <td class="tg-0lax">tbd</td>
   </tr>
 <tr>
     <td class="tg-0lax">17:10</td>
