@@ -17,7 +17,7 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>October 25, 2023</b><br/>
-
+    <i>No meeting - session has been preponed to Sept 27 (Lilian Wanzare)</i>
     <br/><br/>
     
     <b>Nov 1, 2023</b><br/>

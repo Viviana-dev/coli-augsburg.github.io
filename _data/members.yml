@@ -29,6 +29,17 @@
     instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
 
 -
+    name: 'Jakob Prange'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'PostDoc / Akademischer Rat'
+    pic: ""
+    website: ''
+    websiteurl: ''
+    affiliation: 'University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+
+
+-
     name: 'Timo Schrader'
     email: 'firstname dot lastname at de dot bosch dot com'
     position: 'Phd Student'
