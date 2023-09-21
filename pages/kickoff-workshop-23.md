@@ -61,7 +61,7 @@ permalink: /kickoff-workshop-23
   <tr>
     <td class="tg-0lax">14:50</td>
     <td class="tg-0lax">Alessandra</td>
-    <td class="tg-0lax">Group Presentation: Language Technologies and Cognitive Assistants</td>
+    <td class="tg-0lax">Group Presentation: Applied NLP in the Wake of ChatGPT</td>
   </tr>
   <tr>
     <td class="tg-0lax">15:10</td>
@@ -153,7 +153,7 @@ permalink: /kickoff-workshop-23
 <tr>
     <td class="tg-0lax">16:15</td>
     <td class="tg-0lax">Valentin</td>
-    <td class="tg-0lax">tbd</td>
+    <td class="tg-0lax">Text Simplification for Medical Text Using Prompting Techniques</td>
 </tr>
 <tr>
     <td class="tg-0lax">16:30</td>

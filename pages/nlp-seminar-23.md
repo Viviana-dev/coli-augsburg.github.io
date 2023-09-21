@@ -10,7 +10,67 @@ permalink: /nlp-seminar
 
     <b>Wednesdays, 10am -- Start Date: October 18, 2023</b><br/><br/>
 
-    <i>Schedule to be added</i><br/><br/>
+    <i>Schedule under construction</i><br/><br/>
+
+    <b>October 18, 2023</b><br/>
+    <i>No meeting - ILKA talk by Flavia Sciolette at 5.30pm</i>
+    <br/><br/>
+
+    <b>October 25, 2023</b><br/>
+
+    <br/><br/>
+    
+    <b>Nov 1, 2023</b><br/>
+
+    <br/><br/>
+
+    <b>Nov 8, 2023</b><br/>
+
+    <br/><br/>
+
+    <b>Nov 15, 2023</b><br/>
+
+    <br/><br/>
+
+    <b>Nov 22, 2023</b><br/>
+    Guest talk by Sophie Henning (Bosch/LMU): Uncertainty and Confidence Modeling for Deep Learning in NLP
+    <br/><br/>
+
+    <b>Nov 29, 2023</b><br/>
+
+    <br/><br/>
+
+    <b>Dec 6, 2023</b><br/>
+
+    <br/><br/>
+
+    <b>Dec 13, 2023</b><br/>
+
+    <br/><br/>
+
+    <b>Dec 20, 2023</b><br/>
+
+    <br/><br/>
+
+    <b>Jan 10, 2023</b><br/>
+
+    <br/><br/>
+
+     <b>Jan 17, 2023</b><br/>
+
+    <br/><br/>
+
+     <b>Jan 24, 2023</b><br/>
+
+    <br/><br/>
+
+     <b>Jan 31, 2023</b><br/>
+
+    <br/><br/>
+
+    <b>Feb 7, 2023</b><br/>
+
+    <br/><br/>
 
     <b>Contact: Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b>
 
