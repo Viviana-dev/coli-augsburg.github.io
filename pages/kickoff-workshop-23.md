@@ -2,46 +2,43 @@
 permalink: /kickoff-workshop-23
 ---
 
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2>CoLi @ Augsburg Kickoff Workshop</h2>
-            <h3>October 4 & October 5, 2023</h3>
-
-            <p><b>Contact: Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b></p><br/><br/>
-
-       </div>
-        <div class="col-lg-12 text-center">
-        <h4>Preliminary Schedule</h4>
-
-        <p>Assignments of Slots to Speakers are subject to change!</p>
-
-<p>Wednesday, October 4, 2023</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:5px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-weight:normal;padding:5px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .center {
   margin-left: auto;
   margin-right: auto;
 }
 </style>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2>CoLi @ Augsburg Kickoff Workshop</h2>
+            <h3>October 4 & October 5, 2023</h3>
+        </div>
+    </div>
+
+<div class = "row">
+
+
 <table class="tg center">
-<thead>
+<tr>
+<td class="tg-0lax" colspan="3"><b>Wednesday, October 4, 2023</b></td>
+</tr>
   <tr>
-    <th class="tg-0lax">Time</th>
-    <th class="tg-0lax">Speaker</th>
-    <th class="tg-0lax">Title</th>
+    <td class="tg-0lax"><b>Time</b></td>
+    <td class="tg-0lax"><b>Speaker</b></td>
+    <td class="tg-0lax"><b>Title</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-0lax">12:00</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax" colspan="2">Lunch (group-internal)</td>
   </tr>
   <tr>
     <td class="tg-0lax">14:00</td>
@@ -60,7 +57,7 @@ permalink: /kickoff-workshop-23
   </tr>
   <tr>
     <td class="tg-0lax">15:30</td>
-   <td class="tg-0lax">Coffee Break</td>
+    <td class="tg-0lax" colspan="2">Coffee Break</td>
   </tr>
   <tr>
     <td class="tg-0lax">16:00</td>
@@ -73,30 +70,22 @@ permalink: /kickoff-workshop-23
     <td class="tg-0lax">Proactive Conversational Assistants</td>
   <tr>
     <td class="tg-0lax">16:30</td>
-    <td class="tg-0lax">Commute to city centre, walking tour (cathedral, Hofgarten, Rathausplatz, ...)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="2"><i>Commute to city centre, walking tour (cathedral, Hofgarten, Rathausplatz, ...)</i></td>
   </tr>
   <tr>
     <td class="tg-0lax">18:30</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Dinner &amp; Drinks at El Teatro</td>
+    <td class="tg-0lax" colspan="2"><i>Dinner &amp; Drinks at El Teatro</i></td>
   </tr>
-</tbody>
-</table>
-<br/><br/>
-        
+<tr/>
+<tr>
+<td class="tg-0lax" colspan="3"><b>Thursday, October 5, 2023</b></td>
+</tr>
 
-
-<p>Thursday, October 5, 2023</p>
-<table class="tg center">
-<thead>
   <tr>
-    <th class="tg-0lax">Time</th>
-    <th class="tg-0lax">Speaker</th>
-    <th class="tg-0lax">Title</th>
+    <td class="tg-0lax">Time</td>
+    <td class="tg-0lax">Speaker</td>
+    <td class="tg-0lax">Title</td>
   </tr>
-</thead>
-<tbody>
 <tr>
     <td class="tg-0lax">10:00</td>
     <td class="tg-0lax"></td>
@@ -104,8 +93,7 @@ permalink: /kickoff-workshop-23
     </tr>
   <tr>
     <td class="tg-0lax">12:00</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Lunch at Unikum</td>
+    <td class="tg-0lax" colspan="2">Lunch at Unikum</td>
   </tr>
   <tr>
     <td class="tg-0lax">13:30</td>
@@ -128,12 +116,12 @@ permalink: /kickoff-workshop-23
 </tr>
     <tr>
     <td class="tg-0lax">15:00</td>
-    <td class="tg-0lax">Coffee Break</td>
+    <td class="tg-0lax" colspan="2">Coffee Break</td>
   </tr>
 </tr>
     <tr>
     <td class="tg-0lax">15:30</td>
-    <td class="tg-0lax">Discussions, Website, Oberseminar Planning</td>
+    <td class="tg-0lax" colspan="2">Discussions, Website, Oberseminar Planning</td>
   </tr>
   <tr>
     <td class="tg-0lax">16:30</td>
@@ -157,13 +145,5 @@ permalink: /kickoff-workshop-23
   </tr>
   <tr>
     <td class="tg-0lax">19:00</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Dinner &amp; Drinks</td>
+    <td class="tg-0lax" colspan="2">Dinner &amp; Drinks at Brauhaus Riegele</td>
   </tr>
-</tbody>
-</table>
-
-        </div>
-    </div>
-</div>
-
