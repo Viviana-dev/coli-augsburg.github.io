@@ -74,7 +74,7 @@ permalink: /kickoff-workshop-23
     <td class="tg-0lax" colspan="2"><i>Commute to city centre, walking tour (cathedral, Hofgarten, Rathausplatz, ...)</i></td>
   </tr>
   <tr>
-    <td class="tg-0lax">18:30</td>
+    <td class="tg-0lax">19:00</td>
     <td class="tg-0lax" colspan="2"><i>Dinner &amp; Drinks at El Teatro</i></td>
   </tr>
 <tr/>
@@ -104,7 +104,7 @@ permalink: /kickoff-workshop-23
   <tr>
     <td class="tg-0lax">13:45</td>
     <td class="tg-0lax">Viviana Ventura</td>
-    <td class="tg-0lax">tbd</td>
+    <td class="tg-0lax">Challenges in social media data analysis</td>
 </tr>
   <tr>
     <td class="tg-0lax">14:00</td>
