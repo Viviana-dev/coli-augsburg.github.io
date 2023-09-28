@@ -145,5 +145,5 @@ permalink: /kickoff-workshop-23
   </tr>
   <tr>
     <td class="tg-0lax">19:00</td>
-    <td class="tg-0lax" colspan="2">Dinner &amp; Drinks at Brauhaus Riegele</td>
+    <td class="tg-0lax" colspan="2"><i>Dinner &amp; Drinks at Brauhaus Riegele</i></td>
   </tr>
