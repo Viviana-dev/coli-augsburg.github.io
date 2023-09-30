@@ -69,8 +69,13 @@ permalink: /kickoff-workshop-23
     <td class="tg-0lax">Zahra Kolagar</td>
     <td class="tg-0lax">Managing Privacy in Conversational AI</td>
   </tr>
-  <tr>
+    <tr>
     <td class="tg-0lax">16:30</td>
+    <td class="tg-0lax">Christian Fäth</td>
+    <td class="tg-0lax">Stream-based Graph Processing for NLP</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16:45</td>
     <td class="tg-0lax" colspan="2"><i>Commute to city centre, walking tour (cathedral, Hofgarten, Rathausplatz, ...)</i></td>
   </tr>
   <tr>
