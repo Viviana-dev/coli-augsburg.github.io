@@ -80,7 +80,7 @@ permalink: /kickoff-workshop-23
   </tr>
   <tr>
     <td class="tg-0lax">19:00</td>
-    <td class="tg-0lax" colspan="2"><i>Dinner &amp; Drinks at El Teatro</i></td>
+    <td class="tg-0lax" colspan="2"><i>Dinner &amp; Drinks at Al Teatro</i></td>
   </tr>
 <tr/>
 <tr>
