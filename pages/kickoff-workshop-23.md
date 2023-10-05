@@ -19,7 +19,7 @@ permalink: /kickoff-workshop-23
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <h2>CoLi @ Augsburg Kickoff Workshop</h2>
+            <h2>HLT @ Augsburg Kickoff Workshop</h2>
             <h3>October 4 & October 5, 2023</h3>
         </div>
     </div>
