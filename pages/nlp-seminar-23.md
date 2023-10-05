@@ -21,14 +21,15 @@ permalink: /nlp-seminar
     <br/><br/>
     
     <b>Nov 1, 2023</b><br/>
+    <i>Holiday</i>
 
     <br/><br/>
 
-    <b>Nov 8, 2023</b><br/>
+    <b>Nov 8, 2023</b>Reading Session: Friedrich<br/>
 
     <br/><br/>
 
-    <b>Nov 15, 2023</b><br/>
+    <b>Nov 15, 2023</b>Reading Session: Zarcone<br/>
 
     <br/><br/>
 
@@ -36,7 +37,7 @@ permalink: /nlp-seminar
     Guest talk by Sophie Henning (Bosch/LMU): Uncertainty and Confidence Modeling for Deep Learning in NLP
     <br/><br/>
 
-    <b>Nov 29, 2023</b><br/>
+    <b>Nov 29, 2023</b>Reading Session: Chiarcos / Garcia<br/>
 
     <br/><br/>
 
@@ -56,19 +57,19 @@ permalink: /nlp-seminar
 
     <br/><br/>
 
-     <b>Jan 17, 2023</b><br/>
+     <b>Jan 17, 2023</b>PhD Update Reports: Zahra + Valentin<br/>
 
     <br/><br/>
 
-     <b>Jan 24, 2023</b><br/>
+     <b>Jan 24, 2023</b>PhD Update Reports: Timo + Wei<br/>
 
     <br/><br/>
 
-     <b>Jan 31, 2023</b><br/>
+     <b>Jan 31, 2023</b>Diego Frassinelli (?)<br/>
 
-    <br/><br/>
+    <br/>Master thesis presentation: Steffen Kleinle<br/>
 
-    <b>Feb 7, 2023</b><br/>
+    <b>Feb 7, 2023</b>Discussion + Breakfast<br/>
 
     <br/><br/>
 
