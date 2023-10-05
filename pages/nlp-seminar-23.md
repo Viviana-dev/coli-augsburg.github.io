@@ -55,19 +55,19 @@ permalink: /nlp-seminar
 
     <b>Jan 10, 2023</b><br/>
 
-    <br/><br/>
-
-     <b>Jan 17, 2023</b>PhD Update Reports: Zahra + Valentin<br/>
-
-    <br/><br/>
-
-     <b>Jan 24, 2023</b>PhD Update Reports: Timo + Wei<br/>
-
-    <br/><br/>
-
-     <b>Jan 31, 2023</b>Diego Frassinelli (?)<br/>
-
     <br/>Master thesis presentation: Steffen Kleinle<br/>
+
+     <b>Jan 17, 2023</b><br/>
+
+    <br/>PhD Update Reports: Zahra + Valentin<br/>
+
+     <b>Jan 24, 2023</b><br/>
+
+    <br/>PhD Update Reports: Timo + Wei<br/>
+
+     <b>Jan 31, 2023</b><br/>
+
+    <br/>External Guest Speaker: Diego Frassinelli (LMU München)<br/>
 
     <b>Feb 7, 2023</b>Discussion + Breakfast<br/>
 
