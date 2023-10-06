@@ -49,7 +49,6 @@
     affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
     instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
 
-
 -
     name: 'Viviana Ventura'
     email: 'tba'
@@ -59,3 +58,23 @@
     websiteurl: ''
     affiliation: 'Hochschule Augsburg'
     instituteurl: 'https://www.tha.de/'
+
+-
+    name: 'Wei Zhou'
+    email: 'tba'
+    position: 'Phd Student'
+    pic: "wei_zhou"
+    website: ''
+    websiteurl: ''
+    affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
+    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+
+-
+    name: 'Valentin Knappich'
+    email: 'tba'
+    position: 'Phd Student'
+    pic: "valentin_knappich"
+    website: ''
+    websiteurl: ''
+    affiliation: 'University of Augsburg / Bosch Center for Artificial Intelligence'
+    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
