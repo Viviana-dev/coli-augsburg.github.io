@@ -55,6 +55,12 @@ plugins:
 defaults:
   -
     scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+  -
+    scope:
       path: "pages"
       type: "pages" # previously `page` in Jekyll 2.2.
     values:
