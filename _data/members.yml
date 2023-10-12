@@ -32,9 +32,9 @@
     name: 'Jakob Prange'
     email: 'firstname dot lastname at uni minus a dot de'
     position: 'PostDoc / Akademischer Rat'
-    pic: ""
-    website: ''
-    websiteurl: ''
+    pic: "jakob"
+    website: 'Personal Website'
+    websiteurl: 'https://jakpra.github.io/'
     affiliation: 'University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
 
