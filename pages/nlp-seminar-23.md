@@ -25,7 +25,7 @@ permalink: /nlp-seminar
 
     <br/><br/>
 
-    <b>Nov 8, 2023</b><br/>Reading Session: Friedrich<br/>
+    <b>Nov 8, 2023</b><br/>Reading Session: Friedrich/Prange<br/>
     <i>This week, we will discuss two outstanding papers from ACL 2023.</i>
     <ul>
     <li><a href="https://aclanthology.org/2023.acl-long.213/">Entity Tracking in Language Models</a> (Kim & Schuster, ACL 2023)</li>
@@ -34,7 +34,7 @@ permalink: /nlp-seminar
 
     <br/><br/>
 
-    <b>Nov 15, 2023</b><br/>Reading Session: Zarcone<br/>
+    <b>Nov 15, 2023</b><br/>Reading Session: Zarcone/Ventura<br/>
 
     <br/><br/>
 
