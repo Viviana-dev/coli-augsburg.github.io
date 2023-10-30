@@ -26,6 +26,10 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Nov 8, 2023</b><br/>Reading Session: Friedrich<br/>
+    <ul>
+    <li><a href="https://aclanthology.org/2023.acl-long.213/">Entity Tracking in Language Models (Kim & Schuster, ACL 2023)</a></li>
+    <li><a hreF="https://aclanthology.org/2023.acl-long.697/">What’s the Meaning of Superhuman Performance in Today’s NLU?</a> (Tedeschi et al., ACL 2023)</li>
+    </ul>
 
     <br/><br/>
 
