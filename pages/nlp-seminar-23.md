@@ -67,7 +67,9 @@ permalink: /nlp-seminar
 
      <b>Jan 31, 2023</b><br/>
 
-    <br/>External Guest Speaker: Diego Frassinelli (LMU München)<br/>
+    <br/>External Guest Speaker: Diego Frassinelli (LMU München)
+    
+    <br/><br/>
 
     <b>Feb 7, 2023</b>Discussion + Breakfast<br/>
 
