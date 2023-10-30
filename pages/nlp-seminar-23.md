@@ -16,7 +16,7 @@ permalink: /nlp-seminar
     <i>No meeting - ILKA talk by Flavia Sciolette at 5.30pm</i>
     <br/><br/>
 
-    <b>October 25, 2023</b><<<<<<<c>>>>>>
+    <b>October 25, 2023</b><br/>
     <i>No meeting - session has been preponed to Sept 27 (Lilian Wanzare)</i>
     <br/><br/>
     
