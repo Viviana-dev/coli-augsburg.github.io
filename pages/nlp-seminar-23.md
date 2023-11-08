@@ -27,10 +27,9 @@ permalink: /nlp-seminar
 
     <b>Nov 8, 2023</b><br/>Reading Session: Friedrich/Prange<br/>
     <i>This week, we will discuss two outstanding papers from ACL 2023.</i>
-    <ul>
-    <li><a href="https://aclanthology.org/2023.acl-long.213/">Entity Tracking in Language Models</a> (Kim & Schuster, ACL 2023)</li>
-    <li><a hreF="https://aclanthology.org/2023.acl-long.697/">What’s the Meaning of Superhuman Performance in Today’s NLU?</a> (Tedeschi et al., ACL 2023)</li>
-    </ul>
+    <a href="https://aclanthology.org/2023.acl-long.213/">Entity Tracking in Language Models</a> (Kim & Schuster, ACL 2023)<br/>
+    <a hreF="https://aclanthology.org/2023.acl-long.697/">What’s the Meaning of Superhuman Performance in Today’s NLU?</a> (Tedeschi et al., ACL 2023)
+    
 
     <br/><br/>
 
@@ -52,12 +51,10 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Dec 13, 2023</b><br/>Reading Session: Christian Chiarcos<br/>
-    <i>Creating and using large-scale lexical knowledge graphs from heterogeneous sources</i>
-    <ul>
-    <li><a href="https://aclanthology.org/2020.lrec-1.401/">The ACoLi Dictionary Graph</a> (Chiarcos et al., LREC 2020)</li>
-    <li><a href="https://www.w3.org/2016/05/ontolex/">Lexicon Model for Ontologies (OntoLex)</a> (Cimiano et al., eds., 2016, W3C Community Group Report, CG Ontology-Lexica)</li>
-    <li><a href="https://github.com/acoli-repo/acoli-dicts">GitHub repo</a></li>
-    </ul>
+    <i>Creating and using large-scale lexical knowledge graphs from heterogeneous sources</i><br/>
+<a href="https://aclanthology.org/2020.lrec-1.401/">The ACoLi Dictionary Graph</a> (Chiarcos et al., LREC 2020)<<br/>
+<a href="https://www.w3.org/2016/05/ontolex/">Lexicon Model for Ontologies (OntoLex)</a> (Cimiano et al., eds., 2016, W3C Community Group Report, CG Ontology-Lexica)<br/>
+<a href="https://github.com/acoli-repo/acoli-dicts">GitHub repo</a>
 
     <br/><br/>
 
@@ -65,13 +62,13 @@ permalink: /nlp-seminar
     PhD Updates: Viviana, Lukas
     <br/><br/>
 
-    <b>Jan 10, 2023</b><br/>
+    <b>Jan 10, 2023</b>
     <br/>Master thesis presentation: Steffen Kleinle<br/><br/>
 
-     <b>Jan 17, 2023</b><br/>
+     <b>Jan 17, 2023</b>
     <br/>PhD Update Reports: Zahra + Valentin<br/><br/>
 
-     <b>Jan 24, 2023</b><br/>
+     <b>Jan 24, 2023</b>
     <br/>PhD Update Reports: Timo + Wei<br/><br/>
 
      <b>Jan 31, 2023</b><br/>
