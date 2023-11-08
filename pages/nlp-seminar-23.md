@@ -42,7 +42,8 @@ permalink: /nlp-seminar
     Guest talk by Sophie Henning (Bosch/LMU): Uncertainty and Confidence Modeling for Deep Learning in NLP
     <br/><br/>
 
-    <b>Nov 29, 2023</b><br/>Reading Session: Chiarcos / Garcia<br/>
+    <b>Nov 29, 2023</b><br/>Reading Session: Christian Chiarcos / Veronika Gacia<br/>
+    <i>Tentative topic: Annotating Aspects of Discourse and Semantics / Introducing the Augsburg Corpus of Reference and Information Structure</i>
 
     <br/><br/>
 
@@ -50,7 +51,13 @@ permalink: /nlp-seminar
 
     <br/><br/>
 
-    <b>Dec 13, 2023</b><br/>
+    <b>Dec 13, 2023</b><br/>Reading Session: Christian Chiarcos<br/>
+    <i>Creating and using large-scale lexical knowledge graphs from heterogeneous sources</i>
+    <ul>
+    <li><a href="https://aclanthology.org/2020.lrec-1.401/">The ACoLi Dictionary Graph</a> (Chiarcos et al., LREC 2020)</li>
+    <li><a href="https://www.w3.org/2016/05/ontolex/">Lexicon Model for Ontologies (OntoLex)</a> (Cimiano et al., eds., 2016, W3C Community Group Report, CG Ontology-Lexica)</li>
+    <li><a href="https://github.com/acoli-repo/acoli-dicts">GitHub repo</a></li>
+    </ul>
 
     <br/><br/>
 
