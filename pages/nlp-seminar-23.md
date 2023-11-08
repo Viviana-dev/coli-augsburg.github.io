@@ -48,7 +48,7 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Dec 6, 2023</b><br/>
-
+    Research Updates: Jakob Prange, Tobias Hallmen
     <br/><br/>
 
     <b>Dec 13, 2023</b><br/>Reading Session: Christian Chiarcos<br/>
@@ -62,25 +62,20 @@ permalink: /nlp-seminar
     <br/><br/>
 
     <b>Dec 20, 2023</b><br/>
-
+    PhD Updates: Viviana, Lukas
     <br/><br/>
 
     <b>Jan 10, 2023</b><br/>
-
-    <br/>Master thesis presentation: Steffen Kleinle<br/>
+    <br/>Master thesis presentation: Steffen Kleinle<br/><br/>
 
      <b>Jan 17, 2023</b><br/>
-
-    <br/>PhD Update Reports: Zahra + Valentin<br/>
+    <br/>PhD Update Reports: Zahra + Valentin<br/><br/>
 
      <b>Jan 24, 2023</b><br/>
-
-    <br/>PhD Update Reports: Timo + Wei<br/>
+    <br/>PhD Update Reports: Timo + Wei<br/><br/>
 
      <b>Jan 31, 2023</b><br/>
-
     <br/>External Guest Speaker: Diego Frassinelli (LMU München)
-    
     <br/><br/>
 
     <b>Feb 7, 2023</b>Discussion + Breakfast<br/>
